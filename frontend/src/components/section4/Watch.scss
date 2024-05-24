@@ -1,0 +1,22 @@
+.watch{
+    padding: 200px  0 170px;
+}
+.watchTop{
+    display: flex;
+    align-items: center;
+}
+.watchBottom{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    &Left{
+        width: 556px;
+    }
+    &Right{
+        width: 554px;
+    }
+}
+.watchContainer{
+    max-width: 1170px;
+    margin: 0 auto;
+}
